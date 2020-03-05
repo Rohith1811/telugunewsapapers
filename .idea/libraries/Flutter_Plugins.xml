@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://E:/FLUTTER/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-6.0.9" />
+      <root url="file://E:/FLUTTER/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.4" />
+      <root url="file://E:/FLUTTER/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.19+7" />
+      <root url="file://E:/FLUTTER/flutter/.pub-cache/hosted/pub.dartlang.org/share-0.6.3+5" />
+      <root url="file://E:/FLUTTER/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2" />
+      <root url="file://E:/FLUTTER/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-0.1.2" />
+      <root url="file://E:/FLUTTER/flutter/.pub-cache/hosted/pub.dartlang.org/device_id-0.2.0" />
+      <root url="file://E:/FLUTTER/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.0" />
+      <root url="file://E:/FLUTTER/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+10" />
+      <root url="file://E:/FLUTTER/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.15.4" />
+      <root url="file://E:/FLUTTER/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-4.2.0+hotfix.3" />
+      <root url="file://E:/FLUTTER/flutter/.pub-cache/hosted/pub.dartlang.org/facebook_audience_network-0.4.0" />
+      <root url="file://E:/FLUTTER/flutter/.pub-cache/git/pdftron-flutter-8a4edb13ceaf100c0e0ea4d67d1c70dff3878c1a" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

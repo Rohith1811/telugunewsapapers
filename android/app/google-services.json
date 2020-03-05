@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "823389469563",
+    "firebase_url": "https://telugu-daily-news-papers-ap-ts.firebaseio.com",
+    "project_id": "telugu-daily-news-papers-ap-ts",
+    "storage_bucket": "telugu-daily-news-papers-ap-ts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823389469563:android:c3444939b2120968bcdbde",
+        "android_client_info": {
+          "package_name": "com.papers.news.ts.ap.telugu.telugu_ap_ts_news_papers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823389469563-tk4vcfntc2s5m18tcffv76hjn0lfg9r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATkvQ5l0CkE4uesm18l8xaIyI4j2NdsTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823389469563-tk4vcfntc2s5m18tcffv76hjn0lfg9r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4319666597666027~1377060382"
+    }
+  ],
+  "configuration_version": "1"
+}
